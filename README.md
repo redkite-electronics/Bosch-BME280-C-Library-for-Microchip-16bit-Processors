@@ -1,2 +1,10 @@
 # Bosch-BME280-C-Library-for-Microchip-16bit-Processors
- Bosch BME280 (Temperture/Pressure/Humidity Sensor) C Library for Microchip 16bit Processors
+Bosch BME280 (Temperture/Pressure/Humidity Sensor) C Library for Microchip 16bit Processors
+
+This Library is based on the Adafruit Open Source Library for Arduino Processors. https://github.com/adafruit/Adafruit_BME280_Library
+
+This Libary supports I2C Only.
+
+I have included the IC2 Driver for the PIC24F***** Processor
+
+I have also included an example Project that displays Temperture, Pressure and Humidity.
