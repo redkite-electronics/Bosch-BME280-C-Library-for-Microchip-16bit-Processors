@@ -5,6 +5,6 @@ This Library is based on the Adafruit Open Source Library for Arduino Processors
 
 This Libary supports I2C Only.
 
-I have included the IC2 Driver for the PIC24F***** Processor
+I have included the IC2 and Serial Driver for the PIC24F128GA204 Processor
 
 I have also included an example Project that displays Temperture, Pressure and Humidity.
