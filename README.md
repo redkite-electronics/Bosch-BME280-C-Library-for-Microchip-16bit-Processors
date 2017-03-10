@@ -7,6 +7,6 @@ This Libary supports I2C Only.
 
 I have included the IC2 and Serial Driver for the PIC24F128GA204 Processor
 
-I have also included an example Project that displays Temperture, Pressure and Humidity.
+I have also included an example Project that displays Temperture, Pressure and Humidity on to the serial port of the processor @ 19200bps
 
 SOFTWARE AND DOCUMENTATION ARE PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED. USE ENTIELY AT OWN RISK.
